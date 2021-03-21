@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parixit Raj Chaudhary
-- 👀 I’m interested in Full Stack Development, Competitive Programming, Machine Learning!
-- 🌱 I’m currently learning Web development, Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning
+- 👀 Interested in Full Stack Development, Competitive Programming, Machine Learning!
+- 🌱 Currently learning Web development, Machine Learning
+- 💞️ Looking to collaborate on Machine Learning
 - 📫 How to reach me -
 LinkedIn- https://www.linkedin.com/in/parixit-chaudhary-82117a1b3/ 
  ✨ CODEPEN - https://codepen.io/gamersgeneration/
