@@ -8,8 +8,9 @@ LinkedIn- https://www.linkedin.com/in/parixit-chaudhary-82117a1b3/
  ✨ Kaggle- https://www.kaggle.com/chaudharyparixitraj/
  ✨ IG - https://www.instagram.com/elltes.reven/
  ✨ FB - https://www.facebook.com/higgs.boson.52056/
- ✨ Visit the blog ! - https://gravediggerss.blogspot.com/
+ 🌱 Portfolio - https://parixitrajchaudhary.blogspot.com/
  🌱 Portfolio - https://gamersgeneration.github.io/ 
+ ✨ Visit the blog ! - https://gravediggerss.blogspot.com/
  ✨ Business mail - offline24seven@gmail.com
 <!---
 GamersGeneration/GamersGeneration is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
