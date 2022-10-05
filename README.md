@@ -1,14 +1,12 @@
 - 👋 Hi, I’m @Parixit Raj Chaudhary
-- 👀 Interested in Full Stack Development, Competitive Programming, Machine Learning!
-- 🌱 Currently learning Web development, Machine Learning
-- 💞️ Looking to collaborate on Machine Learning
+- 👀 Interested in DSA, Competitive Programming, Machine Learning!
+- 🌱 Currently learning DSA, Machine Learning
+ - Want to develop project using Django for killingtime.
+- 💞️ Looking for  mentoring and material on AFCAT, CDS and GATE 2023
 - 📫 How to reach me -
 LinkedIn- https://www.linkedin.com/in/parixit-chaudhary-82117a1b3/ 
- ✨ CODEPEN - https://codepen.io/gamersgeneration/
  ✨ Kaggle- https://www.kaggle.com/chaudharyparixitraj/
  ✨ IG - https://www.instagram.com/elltes.reven/
- ✨ FB - https://www.facebook.com/higgs.boson.52056/
- 🌱 Portfolio - https://parixitrajchaudhary.blogspot.com/
  🌱 Portfolio - https://gamersgeneration.github.io/ 
  ✨ Visit the blog ! - https://gravediggerss.blogspot.com/
  ✨ Business mail - offline24seven@gmail.com
